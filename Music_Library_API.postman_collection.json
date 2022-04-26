@@ -59,7 +59,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"title\": \"Hotel California\",\r\n    \"artist\": \"Eagles\",\r\n    \"album\": \"Hotel California\",\r\n    \"release_date\": \"1977-02-22\",\r\n    \"genre\": \"Rock\",\r\n    \"likes\": 0\r\n}",
+					"raw": "{\r\n    \"title\": \"Hotel California\",\r\n    \"artist\": \"Eagles\",\r\n    \"album\": \"Hotel California\",\r\n    \"release_date\": \"1977-02-22\",\r\n    \"genre\": \"Rock\",\r\n    \"likes\": 0,\r\n    \"image\": \"image url\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -91,7 +91,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"title\": \"Hotel California\",\r\n    \"artist\": \"Eagles\",\r\n    \"album\": \"Hotel California\",\r\n    \"release_date\": \"1977-02-23\",\r\n    \"genre\": \"Rock\",\r\n    \"likes\": 0\r\n}",
+					"raw": "{\r\n    \"title\": \"Hotel California\",\r\n    \"artist\": \"Eagles\",\r\n    \"album\": \"Hotel California\",\r\n    \"release_date\": \"1977-02-23\",\r\n    \"genre\": \"Rock\",\r\n    \"likes\": 0,\r\n    \"image\": \"image url\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -99,7 +99,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/music/12/",
+					"raw": "http://127.0.0.1:8000/music/13/",
 					"protocol": "http",
 					"host": [
 						"127",
@@ -110,7 +110,7 @@
 					"port": "8000",
 					"path": [
 						"music",
-						"12",
+						"13",
 						""
 					]
 				}
@@ -123,7 +123,7 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "http://127.0.0.1:8000/music/12/",
+					"raw": "http://127.0.0.1:8000/music/13/",
 					"protocol": "http",
 					"host": [
 						"127",
@@ -134,7 +134,7 @@
 					"port": "8000",
 					"path": [
 						"music",
-						"12",
+						"13",
 						""
 					]
 				}
